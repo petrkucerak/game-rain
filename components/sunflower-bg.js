@@ -6,7 +6,7 @@ export default function SunflowerBg() {
         className="relative"
         src="/assets/image/cover-center.png"
         alt="cover"
-      ></Image>
+      />
     </div>
   );
 }
