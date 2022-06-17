@@ -1,7 +1,10 @@
+import SunflowerBg from "./sunflower-bg";
+
 export default function Cover() {
   return (
-    <div className="w-screen flex flex-col min-h-screen justify-center items-center">
-      <h1 className="text-4xl">Karolína & Filip</h1>
+    <div className="w-screen flex flex-col h-[50vw] justify-center items-center">
+      <SunflowerBg/>
+      <h1 className="text-4xl z-10">Karolína & Filip</h1>
     </div>
   );
 }
