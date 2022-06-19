@@ -6,7 +6,7 @@ export default function Kontakty() {
       <Content>
         <h2 className="text-5xl mb-2">Důležité osoby</h2>
         <p className="">
-          Pokud nechceš být o hlasdu, tak nám prosím vyplň tenhlenc formulář.
+          Pokud nechceš být o hladu, tak nám prosím vyplň tenhlenc formulář.
           Nekapíš to, tvůje smůla, budeš o hladuuuuu!
         </p>
       </Content>
