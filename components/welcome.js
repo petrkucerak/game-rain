@@ -2,7 +2,7 @@ import Content from "../components/content";
 
 export default function Welcome() {
   return (
-    <section className="w-full min-h-screen flex flex-col justify-center items-center bg-yellow-200">
+    <section className="w-full min-h-screen flex flex-col justify-center items-center bg-sunflower">
       <Content>
         <h2 className="text-5xl mt-2">Něco o nás</h2>
         <div className="flex lg:flex-row flex-col justify-around my-5">

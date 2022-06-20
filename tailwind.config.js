@@ -9,6 +9,9 @@ module.exports = {
         mali: ["Mali", "sans-serif"],
         parisienne: ["Parisienne", "sans-serif"],
       },
+      colors: {
+        sunflower: "#FBEB53",
+      },
     },
   },
   plugins: [],
