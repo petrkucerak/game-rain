@@ -6,8 +6,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        Neucha: ["Neucha", "sans-serif"],
-        Parisienne: ["Parisienne", "sans-serif"],
+        mali: ["Mali", "sans-serif"],
+        parisienne: ["Parisienne", "sans-serif"],
       },
     },
   },

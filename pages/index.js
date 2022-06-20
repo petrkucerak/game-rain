@@ -8,7 +8,7 @@ import Welcome from "../components/welcome";
 
 export default function Home() {
   return (
-    <main className="w-full font-Neucha">
+    <main className="w-full font-mali">
       <Meta />
       <Cover />
       <Welcome />
