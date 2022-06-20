@@ -3,17 +3,17 @@ import SimpleImageSlider from "react-simple-image-slider";
 
 export default function Welcome() {
   const images = [
-    { url: "assets/image/kaja-1.jpg" },
-    { url: "assets/image/kaja-2.jpg" },
+    // { url: "assets/image/kaja-1.jpg" },
     { url: "assets/image/kaja-3.jpg" },
+    { url: "assets/image/kaja-2.jpg" },
     { url: "assets/image/kaja-4.jpg" },
   ];
   return (
     <section className="w-full min-h-screen flex flex-col justify-center items-center bg-sunflower">
       <Content>
-        <h2 className="text-5xl mt-2">Něco o nás</h2>
+        <h2 className="text-6xl mt-2 text-center">Něco o nás</h2>
         <div className="flex lg:flex-row flex-col justify-around my-5">
-          <p className="w-full lg:mr-5 mt-5">
+          {/* <p className="w-full lg:mr-5 mt-5">
             Biliónech vascem karavel myši srovnatelné paliva jiní tj. spouští
             měly přesněji lze projevy syndrom, výpravy{" "}
             <strong>320denní poslechnout</strong> ho neonu. Mlze týmem, reliéfu,
@@ -22,14 +22,20 @@ export default function Welcome() {
             vidět tu tisíci odhalil zatím, pyramidy vějíř u těžko k vybrané ale
             vládců náš dobyvačné tvrdě, divný nervových bažinatou na a nalezení.
             Dospělého k čím i obličeje okem.
-          </p>
-          <SimpleImageSlider
-            width="90vw"
-            height="50vh"
-            images={images}
-            showBullets={true}
-            showNavs={true}
-          />
+          </p> */}
+          <div
+            className="border-8 border-white rounded drop-shadow-2xl max-w-[1000px] w-[90vw]"
+          >
+            <SimpleImageSlider
+              width="100%"
+              height="60vh"
+              images={images}
+              showBullets={true}
+              showNavs={true}
+              autoPlay={true}
+              autoPlayDelay={5.0}
+            />
+          </div>
         </div>
       </Content>
     </section>
