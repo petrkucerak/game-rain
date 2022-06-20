@@ -5,7 +5,7 @@ export default function Cover() {
   return (
     <header className="w-full flex flex-col justify-center items-center min-h-[90vh]">
       <h1 className="text-5xl md:text-7xl text-center">Karolína & Filip</h1>
-      <p className="text-2xl md:text-4xl">10.9.2022</p>
+      <p className="text-2xl md:text-4xl">10. září 2022</p>
       <SunFlowers/>
     </header>
   );

@@ -1,6 +1,13 @@
 import Content from "../components/content";
+import SimpleImageSlider from "react-simple-image-slider";
 
 export default function Welcome() {
+  const images = [
+    { url: "assets/image/kaja-1.jpg" },
+    { url: "assets/image/kaja-2.jpg" },
+    { url: "assets/image/kaja-3.jpg" },
+    { url: "assets/image/kaja-4.jpg" },
+  ];
   return (
     <section className="w-full min-h-screen flex flex-col justify-center items-center bg-sunflower">
       <Content>
@@ -16,6 +23,13 @@ export default function Welcome() {
             vládců náš dobyvačné tvrdě, divný nervových bažinatou na a nalezení.
             Dospělého k čím i obličeje okem.
           </p>
+          <SimpleImageSlider
+            width="90vw"
+            height="50vh"
+            images={images}
+            showBullets={true}
+            showNavs={true}
+          />
         </div>
       </Content>
     </section>
