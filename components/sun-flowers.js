@@ -8,7 +8,7 @@ export default function SunFlowers() {
       ></img>
       <img
         src="/assets/image/cover-left-button.png"
-        className="h-96 absolute bottom-0 left-0"
+        className="h-96 absolute bottom-[10vh] left-0"
         alt="sunflower"
       ></img>
       <img
