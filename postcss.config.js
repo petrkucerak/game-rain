@@ -4,7 +4,7 @@ module.exports = {
     autoprefixer: {},
   },
   images: {
-    loader: "akamai",
-    path: "",
+    loader: "imgix",
+    path: "/",
   },
 };
