@@ -1,4 +1,3 @@
-import { Image } from "@fluentui/react";
 import Content from "../components/content";
 
 export default function Welcome() {
@@ -17,11 +16,6 @@ export default function Welcome() {
             vládců náš dobyvačné tvrdě, divný nervových bažinatou na a nalezení.
             Dospělého k čím i obličeje okem.
           </p>
-          <Image
-            src="/assets/image/welcome.png"
-            alt="Fotka Karoliny a Filipa"
-            className="w-full lg:ml-5 mt-5"
-          />
         </div>
       </Content>
     </section>
