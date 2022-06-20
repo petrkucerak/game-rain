@@ -3,4 +3,8 @@ module.exports = {
     tailwindcss: {},
     autoprefixer: {},
   },
+  images: {
+    loader: "akamai",
+    path: "",
+  },
 };
