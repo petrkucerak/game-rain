@@ -9,7 +9,7 @@ export default function Welcome() {
     { url: "assets/image/kaja-4.jpg" },
   ];
   return (
-    <section className="w-full min-h-screen flex flex-col justify-center items-center bg-sunflower drop-shadow-2xl">
+    <section className="w-full min-h-screen flex flex-col justify-center items-center bg-sunflower drop-shadow-2xl py-10 lg:py-0">
       <Content>
         <h2 className="text-6xl mt-2 text-center">Něco o nás</h2>
         <div className="flex lg:flex-row flex-col justify-around my-5">
@@ -24,7 +24,7 @@ export default function Welcome() {
             Dospělého k čím i obličeje okem.
           </p>
           <div
-            className="border-4 border-white rounded drop-shadow-2xl max-w-[1000px] w-[90vw] lg:mt-0 mt-5"
+            className="border-4 border-white rounded drop-shadow-2xl max-w-[1000px] w-[90vw] lg:mt-0 mt-5 h-full"
           >
             <img src="assets/image/kaja-3.jpg"></img>
           </div>
