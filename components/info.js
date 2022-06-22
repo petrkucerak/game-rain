@@ -4,8 +4,6 @@ import IconGlasses from "./icon-glasses";
 import IconRings from "./icon-rings";
 
 export default function Info() {
-  const target = "_blank";
-  const ref = "no-referrer";
   return (
     <section className="w-full min-h-[60vh] flex flex-col justify-center items-center">
       <Content>
