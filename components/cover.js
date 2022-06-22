@@ -1,4 +1,5 @@
 import SunFlowers from "../components/sun-flowers";
+import Arrow from "./arrow";
 
 export default function Cover() {
   
@@ -7,6 +8,7 @@ export default function Cover() {
       <h1 className="text-5xl md:text-7xl text-center z-10">Karolína & Filip</h1>
       <p className="text-2xl md:text-4xl z-10">10. září 2022</p>
       <SunFlowers/>
+      <Arrow/>
     </header>
   );
 }
