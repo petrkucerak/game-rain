@@ -3,10 +3,10 @@ import SimpleImageSlider from "react-simple-image-slider";
 
 export default function Welcome() {
   const images = [
-    // { url: "assets/image/kaja-1.jpg" },
     { url: "assets/image/kaja-3.jpg" },
     { url: "assets/image/kaja-2.jpg" },
     { url: "assets/image/kaja-4.jpg" },
+    { url: "assets/image/welcome.png" },
   ];
   return (
     <section className="w-full min-h-screen flex flex-col justify-center items-center bg-sunflower drop-shadow-2xl py-10 lg:py-0">
@@ -26,7 +26,7 @@ export default function Welcome() {
           <div
             className="border-4 border-white rounded drop-shadow-2xl max-w-[1000px] w-[85vw] lg:mt-0 mt-5 h-full"
           >
-            <img src="assets/image/kaja-3.jpg"></img>
+            <img src={images[Math.floor(Math.random() * images.length) + 0].url}></img>
           </div>
         </div>
       </Content>

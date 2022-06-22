@@ -3,7 +3,7 @@ import Content from "../components/content";
 
 export default function Kontakty() {
   return (
-    <footer className="w-full min-h-[70vh] flex flex-col justify-center items-center bg-stone-900 text-white py-8">
+    <footer className="w-full min-h-[70vh] flex flex-col justify-center items-center bg-stone-900 drop-shadow-2xl text-white py-8">
       <Content>
         <h2 className="text-6xl mb-5 text-center">Kontakty</h2>
         <div className="text-xl sm:text-2xl flex flex-col lg:flex-row justify-around items-start">
