@@ -13,7 +13,7 @@ export default function Welcome() {
       <Content>
         <h2 className="text-6xl mt-2 text-center">Něco o nás</h2>
         <div className="flex lg:flex-row flex-col justify-around my-5">
-          {/* <p className="w-full lg:mr-5 mt-5">
+          <p className="w-full lg:mr-5 mt-5 text-xl">
             Biliónech vascem karavel myši srovnatelné paliva jiní tj. spouští
             měly přesněji lze projevy syndrom, výpravy{" "}
             <strong>320denní poslechnout</strong> ho neonu. Mlze týmem, reliéfu,
@@ -22,19 +22,11 @@ export default function Welcome() {
             vidět tu tisíci odhalil zatím, pyramidy vějíř u těžko k vybrané ale
             vládců náš dobyvačné tvrdě, divný nervových bažinatou na a nalezení.
             Dospělého k čím i obličeje okem.
-          </p> */}
+          </p>
           <div
-            className="border-8 border-white rounded drop-shadow-2xl max-w-[1000px] w-[90vw]"
+            className="border-4 border-white rounded drop-shadow-2xl max-w-[1000px] w-[90vw] lg:mt-0 mt-5"
           >
-            <SimpleImageSlider
-              width="100%"
-              height="60vh"
-              images={images}
-              showBullets={true}
-              showNavs={true}
-              autoPlay={true}
-              autoPlayDelay={5.0}
-            />
+            <img src="assets/image/kaja-3.jpg"></img>
           </div>
         </div>
       </Content>
