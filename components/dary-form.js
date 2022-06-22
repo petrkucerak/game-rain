@@ -5,16 +5,16 @@ export default function DaryForm() {
   return (
     <section className="w-full min-h-[60vh] flex flex-col justify-center items-center">
       <Content>
-        <div className="flex w-full justify-around items-start lg:flex-row flex-col">
+        <div className="flex w-full justify-around items-start lg:flex-row flex-col my-8">
           <div className="mb-10 lg:mb-0">
-            <h2 className="text-6xl mb-2">Svatební dary</h2>
+            <h2 className="text-5xl mb-2">Svatební dary</h2>
             <p className="max-w-[1000px] w-[85vw] lg:w-[30vw] text-xl">
               Když tu svatbu už děláme, tak bychom na ní rádi alespoň trošku
               vydělali. Tak posílejte penízky. Hodně penízků.
             </p>
           </div>
           <div className="mt-10 lg:mt-0">
-            <h2 className="text-6xl mb-2">Potvrzení účasti</h2>
+            <h2 className="text-5xl mb-2">Potvrzení účasti</h2>
             <p className="max-w-[1000px] w-[85vw] lg:w-[30vw] text-xl">
               Máš hlad? To já taky. Tak se koukej přihlásti, jinak pro tebe
               nebude nic připraveného kulišáku!
