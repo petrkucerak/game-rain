@@ -16,7 +16,7 @@ export default function DaryForm() {
           <div className="mt-10 lg:mt-0">
             <h2 className="text-5xl mb-2">Potvrzení účasti</h2>
             <p className="max-w-[1000px] w-[85vw] lg:w-[25vw] text-xl">
-              Máš hlad? To já taky. Tak se koukej přihlásti, jinak pro tebe
+              Máš hlad? To já taky. Tak se koukej přihlásit, jinak pro tebe
               nebude nic připraveného kulišáku!
             </p>
             <Link href="https://petrkucerak.cz/">
