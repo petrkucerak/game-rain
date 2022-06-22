@@ -1,6 +1,5 @@
 import Cover from "../components/cover";
-import Dary from "../components/dary";
-import Form from "../components/form";
+import DaryForm from "../components/dary-form";
 import Info from "../components/info";
 import Kontakty from "../components/kontakty";
 import Meta from "../components/meta";
@@ -15,8 +14,7 @@ export default function Home() {
       <Welcome />
       <Info />
       <Program />
-      <Dary />
-      <Form />
+      <DaryForm />
       <Kontakty />
     </main>
   );

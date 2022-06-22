@@ -24,7 +24,7 @@ export default function Welcome() {
             Dospělého k čím i obličeje okem.
           </p>
           <div
-            className="border-4 border-white rounded drop-shadow-2xl max-w-[1000px] w-[90vw] lg:mt-0 mt-5 h-full"
+            className="border-4 border-white rounded drop-shadow-2xl max-w-[1000px] w-[85vw] lg:mt-0 mt-5 h-full"
           >
             <img src="assets/image/kaja-3.jpg"></img>
           </div>
