@@ -1,16 +1,50 @@
+import Link from "next/link";
 import Content from "../components/content";
 
 export default function Kontakty() {
   return (
-    <section className="w-full min-h-screen flex flex-col justify-center items-center bg-stone-200">
+    <footer className="w-full min-h-[70vh] flex flex-col justify-center items-center bg-stone-900 text-white">
       <Content>
-        <h2 className="text-5xl mb-2">Důležité osoby</h2>
-        <p className="">
-          Pokud nechceš být o hladu, tak nám prosím vyplň tenhlenc formulář.
-          Nekapíš to, tvůje smůla, budeš o hladuuuuu!
-        </p>
+        <h2 className="text-6xl mb-5 text-center">Kontakty</h2>
+        <div className="text-2xl flex flex-col lg:flex-row justify-around items-start">
+          <div className="flex justify-around items-center flex-row lg:flex-col mb-5 lg:mb-0">
+            <img
+              src="assets/image/ada.jpg"
+              className="rounded-full w-48 border-2 border-stone-800 mr-5 lg:mr-0"
+              alt="svedkyne Ada"
+            ></img>
+            <ul>
+              <li>
+                <h3 className="font-mali text-3xl mt-4 font-semibold">Adéla Slámová</h3>
+              </li>
+              <li>svědkyně</li>
+              <li>
+                <Link href="tel:+420776313105">
+                  <a className="text-stone-300">776 313 105</a>
+                </Link>
+              </li>
+            </ul>
+          </div>
+          <div className="flex justify-around items-center flex-row lg:flex-col mt-5 lg:mt-0">
+            <img
+              src="assets/image/petr.jpg"
+              className="rounded-full w-48 border-2 border-stone-800 mr-5 lg:mr-0"
+              alt="Svedek Petr"
+            ></img>
+            <ul>
+              <li>
+                <h3 className="font-mali text-3xl mt-4 font-semibold">Petr Kučera</h3>
+              </li>
+              <li>svědek</li>
+              <li>
+                <Link href="tel:+420731769416">
+                  <a className="text-stone-300">731 769 416</a>
+                </Link>
+              </li>
+            </ul>
+          </div>
+        </div>
       </Content>
-
-    </section>
+    </footer>
   );
 }
