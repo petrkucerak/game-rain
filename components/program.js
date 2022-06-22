@@ -2,7 +2,7 @@ import Content from "../components/content";
 
 export default function Program() {
   return (
-    <section className="w-full min-h-[80vh] flex flex-col justify-center items-center bg-sunflower drop-shadow-2xl py-16 lg:py-0">
+    <section className="w-full min-h-[80vh] flex flex-col justify-center items-center bg-sunflower drop-shadow-2xl py-16 lg:py-0 z-10">
       <Content>
         <h2 className="text-6xl mb-6">Harmonogram</h2>
         <ul className="text-2xl ">

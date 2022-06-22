@@ -1,5 +1,4 @@
 import Content from "../components/content";
-import SimpleImageSlider from "react-simple-image-slider";
 
 export default function Welcome() {
   const images = [
@@ -9,7 +8,7 @@ export default function Welcome() {
     { url: "assets/image/welcome.png" },
   ];
   return (
-    <section className="w-full min-h-screen flex flex-col justify-center items-center bg-sunflower drop-shadow-2xl py-10 lg:py-0">
+    <section className="w-full min-h-screen flex flex-col justify-center items-center bg-sunflower drop-shadow-2xl py-10 lg:py-0 z-10">
       <Content>
         <h2 className="text-6xl mt-2 text-center">Něco o nás</h2>
         <div className="flex lg:flex-row flex-col justify-around my-5">
