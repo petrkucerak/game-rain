@@ -1,3 +1,4 @@
+import { IconPhone } from "@tabler/icons";
 import Link from "next/link";
 import Content from "../components/content";
 
@@ -15,10 +16,13 @@ export default function Kontakty() {
             ></img>
             <ul>
               <li>
-                <h3 className="font-mali text-2xl mt-4 font-semibold">Adéla Slámová</h3>
+                <h3 className="font-mali text-2xl mt-4 font-semibold">
+                  Adéla Slámová
+                </h3>
               </li>
               <li>svědkyně</li>
-              <li>
+              <li className="flex items-center">
+              <IconPhone stroke={1} className="mr-1"/>
                 <Link href="tel:+420776313105">
                   <a className="text-stone-300">776 313 105</a>
                 </Link>
@@ -33,10 +37,13 @@ export default function Kontakty() {
             ></img>
             <ul>
               <li>
-                <h3 className="font-mali text-2xl mt-4 font-semibold">Petr Kučera</h3>
+                <h3 className="font-mali text-2xl mt-4 font-semibold">
+                  Petr Kučera
+                </h3>
               </li>
               <li>svědek</li>
-              <li>
+              <li className="flex items-center">
+                <IconPhone stroke={1} className="mr-1"/>
                 <Link href="tel:+420731769416">
                   <a className="text-stone-300">731 769 416</a>
                 </Link>
