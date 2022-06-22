@@ -35,7 +35,7 @@ export default function Kontakty() {
               className="rounded-full w-32 sm:w-48 border-2 border-stone-800 mr-5 lg:mr-0"
               alt="Svedek Petr"
             ></img>
-            <ul>
+            <ul> 
               <li>
                 <h3 className="font-mali text-2xl mt-4 font-semibold">
                   Petr Kučera

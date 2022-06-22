@@ -16,12 +16,12 @@ export default function Info() {
                 </li>
                 <ul className="ml-5 text-stone-800">
                   <li className="font-semibold ">Kostel sv. Prokopa</li>
-                  <li>11:00</li>
+                  <li>12:30</li>
                 </ul>
               </ul>
             </a>
           </Link>
-          <Link href="https://mapy.cz/s/racakajohu">
+          <Link href="https://mapy.cz/s/kuzofejuro">
             <a target="_blank" referrerPolicy="no-referrer">
               <ul className="cursor-pointer flex my-5 lg:my-0">
                 <li>
@@ -29,8 +29,8 @@ export default function Info() {
                 </li>
 
                 <ul className="ml-5 text-stone-800">
-                  <li className="font-semibold">Kultuřák na vidlákově</li>
-                  <li>18:00</li>
+                  <li className="font-semibold">Kulturní dům Hamry</li>
+                  <li>18:30</li>
                 </ul>
               </ul>
             </a>
