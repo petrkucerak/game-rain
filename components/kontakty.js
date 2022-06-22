@@ -15,7 +15,7 @@ export default function Kontakty() {
             ></img>
             <ul>
               <li>
-                <h3 className="font-mali sm:text-3xl text-2xl mt-4 font-semibold">Adéla Slámová</h3>
+                <h3 className="font-mali text-2xl mt-4 font-semibold">Adéla Slámová</h3>
               </li>
               <li>svědkyně</li>
               <li>
@@ -33,7 +33,7 @@ export default function Kontakty() {
             ></img>
             <ul>
               <li>
-                <h3 className="font-mali sm:text-3xl text-2xl mt-4 font-semibold">Petr Kučera</h3>
+                <h3 className="font-mali text-2xl mt-4 font-semibold">Petr Kučera</h3>
               </li>
               <li>svědek</li>
               <li>
