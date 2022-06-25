@@ -7,12 +7,12 @@ export default function Info() {
   return (
     <section className="w-full min-h-[60vh] flex flex-col justify-center items-center">
       <Content>
-        <div className="flex lg:flex-row flex-col justify-around my-5 text-2xl">
+        <div className="flex lg:flex-row flex-col justify-around my-5 text-2xl items-center">
           <Link href="https://mapy.cz/s/racakajohu">
             <a target="_blank" referrerPolicy="no-referrer">
               <ul className="cursor-pointer flex my-5 lg:my-0">
                 <li>
-                  <IconRings classes="fill-stone-700 hover:fill-sunflower w-24 ease-out duration-300 transition hover:scale-110" />
+                  <IconRings classes="fill-stone-700 hover:fill-sunflower w-16 md:w-24 ease-out duration-300 transition hover:scale-110" />
                 </li>
                 <ul className="ml-5 text-stone-800">
                   <li className="font-semibold ">Kostel sv. Prokopa</li>
@@ -25,7 +25,7 @@ export default function Info() {
             <a target="_blank" referrerPolicy="no-referrer">
               <ul className="cursor-pointer flex my-5 lg:my-0">
                 <li>
-                  <IconGlasses classes="fill-stone-700 hover:fill-sunflower w-24 ease-out duration-300 transition hover:scale-110" />
+                  <IconGlasses classes="fill-stone-700 hover:fill-sunflower w-16 md:w-24 ease-out duration-300 transition hover:scale-110" />
                 </li>
 
                 <ul className="ml-5 text-stone-800">
