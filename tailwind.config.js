@@ -6,8 +6,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        mali: ["Mali", "sans-serif"],
-        parisienne: ["Parisienne", "sans-serif"],
+        athiti: ["Athiti", "sans-serif"],
       },
       colors: {
         sunflower: "#FAD54D",

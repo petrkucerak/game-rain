@@ -2,7 +2,7 @@ import Head from "next/head";
 
 export default function Meta() {
   const fontSource =
-    "https://fonts.googleapis.com/css2?family=Neucha&family=Parisienne&display=swap";
+    "https://fonts.googleapis.com/css2?family=Athiti&display=swap";
   return (
     <Head>
       {/* <link rel="preconnect" href="https://fonts.googleapis.com" />
