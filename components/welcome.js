@@ -14,26 +14,27 @@ export default function Welcome() {
     >
       <Content>
         <h2 className="text-6xl mt-2 text-center">Něco o nás</h2>
-        <div className="flex lg:flex-row flex-col justify-around my-5">
+        <div className="flex lg:flex-row flex-col justify-around items-center my-5">
           <div className="w-full lg:mr-5 mt-5 text-lg">
-            <strong>V jakém městě jsi vyrůstal?</strong>
+            <h3 className="font-mali font-semibold">
+              V jakém městě jste vyrůstali?
+            </h3>
             <ul>
               <li>Kája: ve Žďáře nad Sázavou</li>
               <li>Filip: v Hradci Králové</li>
             </ul>
-            <strong>Jaké máš koníčky?</strong>
+            <h3 className="font-mali font-semibold mt-2">Jaké jsou vaše koníčky?</h3>
             <ul>
               <li>Kája: jízda na kole, skládání puzzlí, čtení knížek, hudba</li>
               <li>Filip: hasičský sport, skaut, volejbal, tanec</li>
             </ul>
-            <strong>Hraješ na něco?</strong>
-            <ul>
-              <li>Kája: na klavír</li>
-              <li>Filip: na kytaru</li>
-            </ul>
-            <strong>Kde jste se poprvé potkali?</strong>
+            <h3 className="font-mali font-semibold mt-2">
+              Kde jste se poprvé potkali?
+            </h3>
             <p>Poprvé jsme se potkali na spolču ve VKH v Hradci Králové.</p>
-            <strong>Kdy jste zjistili, že spolu chodíte?</strong>
+            <h3 className="font-mali font-semibold mt-2">
+              Kdy jste zjistili, že spolu chodíte?
+            </h3>
             <p>
               Bylo to na podzim roku 2019. Stalo se to při přednášce Tomáše
               Halíka (neptejte se o čem byla). Po skončení přednášky jsme se
