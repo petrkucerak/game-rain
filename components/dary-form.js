@@ -9,15 +9,16 @@ export default function DaryForm() {
           <div className="mb-10 lg:mb-0">
             <h2 className="text-5xl mb-2">Svatební dary</h2>
             <p className="max-w-[1000px] w-[85vw] lg:w-[25vw] text-xl">
-              Když tu svatbu už děláme, tak bychom na ní rádi alespoň trošku
-              vydělali. Tak posílejte penízky. Hodně penízků.
+              Budeme rádi za každý dar, kterým nás podpoříte v začátcích
+              společné cesty. Pokud byste chtěli, aby byl Váš dar přesně na míru
+              pro nás, neváhejte nás kontaktovat.
             </p>
           </div>
           <div className="mt-10 lg:mt-0">
             <h2 className="text-5xl mb-2">Potvrzení účasti</h2>
             <p className="max-w-[1000px] w-[85vw] lg:w-[25vw] text-xl">
-              Máš hlad? To já taky. Tak se koukej přihlásit, jinak pro tebe
-              nebude nic připraveného kulišáku!
+              Plánujete přijít na naši svatbu? Prosím potvrďte svoji účast
+              vyplněním formuláře.
             </p>
             <Link href="https://forms.gle/g3QtzF3HDb4Dc9mKA">
               <a target="_blank">
