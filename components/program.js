@@ -8,12 +8,13 @@ export default function Program() {
         <ul className="text-2xl ">
           <li className="border-l-4 pl-4 border-stone-800">
             <div className="h-5 w-5 bg-sunflower rounded-full  border-4 border-stone-800 relative top-6 right-7 "></div>
-            <storng className="font-semibold mr-4">12:30</storng> Obřad v&nbsp;kostele sv.&nbsp;Prokopa ve&nbsp;Žďáře nad&nbsp;Sázavou
+            <storng className="font-semibold mr-4">12:30</storng> Obřad
+            v&nbsp;kostele sv.&nbsp;Prokopa ve&nbsp;Žďáře nad&nbsp;Sázavou
           </li>
           <li className="border-l-4 pl-4 border-stone-800">
             <div className="h-5 w-5 bg-sunflower rounded-full  border-4 border-stone-800 relative top-6 right-7 "></div>
-            <storng className="font-semibold mr-4">14:00</storng> Společné focení
-            před&nbsp;kostelem
+            <storng className="font-semibold mr-4">14:00</storng> Společné
+            focení před&nbsp;kostelem
           </li>
           <li className="border-l-4 pl-4 border-stone-800">
             <div className="h-5 w-5 bg-sunflower rounded-full  border-4 border-stone-800 relative top-6 right-7 "></div>
