@@ -4,7 +4,7 @@ import CountDown from "./count-down";
 
 export default function Cover() {
   return (
-    <header className="w-full flex flex-col justify-center items-center bg-white z-10 min-h-screen">
+    <header className="w-full flex flex-col justify-center items-center bg-white z-10 my-full-screen">
       <h1 className="text-5xl md:text-7xl text-center z-20">
         Karolína & Filip
       </h1>
