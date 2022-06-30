@@ -19,7 +19,7 @@ export default function DaryForm() {
               Máš hlad? To já taky. Tak se koukej přihlásit, jinak pro tebe
               nebude nic připraveného kulišáku!
             </p>
-            <Link href="https://petrkucerak.cz/">
+            <Link href="https://forms.gle/g3QtzF3HDb4Dc9mKA">
               <a target="_blank">
                 <button className="bg-sunflower my-5 p-3 rounded-md uppercase text-xl border-2 border-stone-700 drop-shadow hover:drop-shadow-2xl ease-out duration-300 transition">
                   potvrdit
