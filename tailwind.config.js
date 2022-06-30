@@ -10,7 +10,7 @@ module.exports = {
         parisienne: ["Parisienne", "sans-serif"],
       },
       colors: {
-        sunflower: "#FAD73E",
+        sunflower: "#FAD54D",
       },
     },
   },
