@@ -8,11 +8,11 @@ export default function ElektrotechnikaANaradi() {
       <Head />
       <Point
         name={"Elektrotechnika a nářadí"}
-        describtion="Říká lidem popírány tkáň migrace situace přepisovací internetová služby, kosti ujít gladiátora mj. fázi méně ho ruské chvíli, dá nejvyšší švédskou době mrazy laně občanské veliký hnědavého z za mobilní, v se ne povinné nikde, tři příbuzenských u archeologa telefonovala. Nízké daří významem zkrátka potřebami. "
-        coords="50.0841581N, 14.4083333E"
-        question="Co fakt se to tak stalo?"
-        answare="kamarade"
-        odpoved="sdsds"
+        describtion="S dobrým generátorem, slušnou audiotechnikou a nějakými světly byste mohli celé deštivé období přečkat jako velkou party. Nebo raději použijete něco jiného? "
+        coords="50.0827442N, 14.4170369E"
+        question="Jaký je součet čísel, která se objevují na autech, když se rozhlédneš kolem sebe?"
+        answare="14"
+        odpoved="#bengaaa"
       />
       <Footer />
     </main>
