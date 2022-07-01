@@ -8,11 +8,11 @@ export default function IgelityAJineIzolace() {
       <Head />
       <Point
         name={"Igelity a jiné izolace"}
-        describtion="Říká lidem popírány tkáň migrace situace přepisovací internetová služby, kosti ujít gladiátora mj. fázi méně ho ruské chvíli, dá nejvyšší švédskou době mrazy laně občanské veliký hnědavého z za mobilní, v se ne povinné nikde, tři příbuzenských u archeologa telefonovala. Nízké daří významem zkrátka potřebami. "
-        coords="50.0841581N, 14.4083333E"
-        question="Co fakt se to tak stalo?"
-        answare="kamarade"
-        odpoved="sdsds"
+        describtion="Dnes je svět přeplněn různými plasty a odpady. Kolik z nich by šlo ovšem použít jako těsnění na váš improvizovaný příbytek? No, právě, že moc ne. Proto si musíte jít nějaký opatřit samy."
+        coords="50.0767947N, 14.4091872E"
+        question="Tyčím se nad řekou, vodu jímám. Koliko podlaží mne obývá."
+        answare="7"
+        odpoved="#DFDS5as"
       />
       <Footer />
     </main>
