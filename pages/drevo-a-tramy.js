@@ -12,7 +12,7 @@ export default function DreavoATramy() {
         coords="50.0841581N, 14.4083333E"
         question="Co fakt se to tak stalo?"
         answare="kamarade"
-        key="#fEDFVSD654FASD"
+        odpoved="sdsds"
       />
       <Footer />
     </main>
