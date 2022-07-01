@@ -23,7 +23,7 @@ export default function Welcome() {
       </div>
       <div className="w-[85vw] max-w-[1000px] flex flex-col items-start justify-center my-8">
         <h2 className="text-4xl font-bold mb-4">Místa pro zisk surovin...</h2>
-        <ol className="list-decimal pl-4">
+        <ol className="list-decimal pl-6">
           <li>
             <Link href="/points/drevo-a-tramy">
               <a>Dřevo a trámy</a>
