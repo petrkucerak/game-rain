@@ -8,11 +8,11 @@ export default function LuzkovinyAObleceni() {
       <Head />
       <Point
         name={"Lůžkoviny a oblečení"}
-        describtion="Říká lidem popírány tkáň migrace situace přepisovací internetová služby, kosti ujít gladiátora mj. fázi méně ho ruské chvíli, dá nejvyšší švédskou době mrazy laně občanské veliký hnědavého z za mobilní, v se ne povinné nikde, tři příbuzenských u archeologa telefonovala. Nízké daří významem zkrátka potřebami. "
-        coords="50.0841581N, 14.4083333E"
-        question="Co fakt se to tak stalo?"
-        answare="kamarade"
-        odpoved="sdsds"
+        describtion="Neprochladnout v noci? Vyrobit si ochranné obleky před toxickým deštěm? Možná pokud získáte tuto surovinu, tak se vám to povede."
+        coords="50.0812672N, 14.4112597E"
+        question="V dálce když se zahledíš, zlatou zahrádku na hlavě mám. Co jsem?"
+        answare="divadlo"
+        odpoved="#národnííí12387"
       />
       <Footer />
     </main>
