@@ -42,7 +42,7 @@ export default function Point({
         <span className="font-mono">{coords}</span>
         <p className="mt-8">{describtion}</p>
         <h2 className="mt-8 text-2xl font-semibold">{question}</h2>
-        <span className="italic">Odpověděď zadávej malým písmem</span>
+        <span className="italic">Odpověděď zadávej malým písmem, jedním slovem a&nbsp;číslo piš číslicí.</span>
         <input
           id="input"
           type="text"

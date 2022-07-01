@@ -8,11 +8,11 @@ export default function DreavoATramy() {
       <Head />
       <Point
         name={"Dřevo a trámy"}
-        describtion="Říká lidem popírány tkáň migrace situace přepisovací internetová služby, kosti ujít gladiátora mj. fázi méně ho ruské chvíli, dá nejvyšší švédskou době mrazy laně občanské veliký hnědavého z za mobilní, v se ne povinné nikde, tři příbuzenských u archeologa telefonovala. Nízké daří významem zkrátka potřebami. "
-        coords="50.0841581N, 14.4083333E"
-        question="Co fakt se to tak stalo?"
-        answare="kamarade"
-        odpoved="sdsds"
+        describtion="Muž hloupý stavěl dům svůj na písku, pak přišel velký mrak. Déšť padal a voda stoupala... Muž moudrý stavěl dům svůj na skále a dům tam pevně stál... Vy ale nemáte skálu, tak si musíte pomoci konstrukcí a to pevnou!"
+        coords="50.0734350N, 14.4040114E"
+        question="Jsem nad dveřmi pevné stavby."
+        answare="václav"
+        odpoved="#54k3425ON^"
       />
       <Footer />
     </main>

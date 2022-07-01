@@ -8,11 +8,11 @@ export default function UmeleckePotrebyAKnihy() {
       <Head />
       <Point
         name={"Umělecké potřeby a knihy"}
-        describtion="Říká lidem popírány tkáň migrace situace přepisovací internetová služby, kosti ujít gladiátora mj. fázi méně ho ruské chvíli, dá nejvyšší švédskou době mrazy laně občanské veliký hnědavého z za mobilní, v se ne povinné nikde, tři příbuzenských u archeologa telefonovala. Nízké daří významem zkrátka potřebami. "
+        describtion="Umění vždy bylo a bude důležité. Může se zdát, že ne, ale díky němu bylo vyhráno i spousta bitev. Vždyť husité zahnali svým mocným zpěvem křižáky na ústup, Izraelský národ zničil brány Jericha."
         coords="50.0841581N, 14.4083333E"
-        question="Co fakt se to tak stalo?"
-        answare="kamarade"
-        odpoved="sdsds"
+        question="Jsem středobodem tohoto místa. Kolikrát musíš stoupat, aby jsi byl u mne?"
+        answare="3"
+        odpoved="#adsa5!as!"
       />
       <Footer />
     </main>

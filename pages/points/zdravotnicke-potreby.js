@@ -8,11 +8,11 @@ export default function ZdravotnickePotreby() {
       <Head />
       <Point
         name={"Zdravotnické potřeby"}
-        describtion="Říká lidem popírány tkáň migrace situace přepisovací internetová služby, kosti ujít gladiátora mj. fázi méně ho ruské chvíli, dá nejvyšší švédskou době mrazy laně občanské veliký hnědavého z za mobilní, v se ne povinné nikde, tři příbuzenských u archeologa telefonovala. Nízké daří významem zkrátka potřebami. "
+        describtion="Už od dob dávných platí, že vědět, znamená mnoho. A v medicíně především. Vždyť například s první pitvou bylo objeveno tolik nových věcí. Chcete-li získat zdravotnické potřeby, na kterých zajisté bude záviset vaše přežití, musíte správně odpovědět na otázku."
         coords="50.0841581N, 14.4083333E"
-        question="Co fakt se to tak stalo?"
-        answare="kamarade"
-        odpoved="sdsds"
+        question="Pevné jak ze železa jsme. Tvoříme a chodíme a často ťukáme. Kolik nás je?"
+        answare="60"
+        odpoved="#sdfDS58*"
       />
       <Footer />
     </main>
