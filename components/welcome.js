@@ -25,17 +25,40 @@ export default function Welcome() {
         <h2 className="text-4xl font-bold mb-4">Místa pro zisk surovin...</h2>
         <ol className="list-decimal pl-4">
           <li>
-            {" "}
-            <Link href="/drevo-a-tramy">
+            <Link href="/points/drevo-a-tramy">
               <a>Dřevo a trámy</a>
             </Link>
           </li>
-          <li>Igelity a jiné izolace</li>
-          <li>Zdravotnické potřeby</li>
-          <li>Elektrotechnika a nářadí</li>
-          <li>Jídlo a potraviny</li>
-          <li>Lůžkoviny a oblečení</li>
-          <li>Umělecké potřeby a knihy</li>
+          <li>
+            <Link href="/points/igelity-a-jine-izolace">
+              <a>Igelity a jiné izolace</a>
+            </Link>
+          </li>
+          <li>
+            <Link href="/points/zdravotnicke-potreby">
+              <a>Zdravotnické potřeby</a>
+            </Link>
+          </li>
+          <li>
+            <Link href="/points/elektrotechnika-a-naradi">
+              <a>Elektrotechnika a nářadí</a>
+            </Link>
+          </li>
+          <li>
+            <Link href="/points/jidlo-a-potraviny">
+              <a>Jídlo a potraviny</a>
+            </Link>
+          </li>
+          <li>
+            <Link href="/points/luzkoviny-a-obleceni">
+              <a>Lůžkoviny a oblečení</a>
+            </Link>
+          </li>
+          <li>
+            <Link href="/points/umelecke-poteby-a-knihy">
+              <a>Umělecké potřeby a knihy</a>
+            </Link>
+          </li>
         </ol>
       </div>
     </section>
